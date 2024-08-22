@@ -106,3 +106,4 @@ run_many_simulations(states_dict, 1170)
 #run_simulation(states_dict)
 
 os.startfile("usa-presidential-2024-blank.svg")
+#os.startfile("usa-presidential-2024-takeall.svg")
